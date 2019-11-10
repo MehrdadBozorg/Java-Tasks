@@ -1,0 +1,15 @@
+String1,String2,Maximum distance,Levenshtein Distance,Duration in nanoseconds
+adbadcagamcag451ca24%312,badcagaaeq895^&@#jadcag11,,17,33912.69
+adbadcagamcag451ca24%312,badcagaaeq895^&@#jadcag11,1,2,2049.87
+adbadcagamcag451ca24%312,badcagaaeq895^&@#jadcag11,2,3,3504.28
+adbadcagamcag451ca24%312,badcagaaeq895^&@#jadcag11,3,4,5093.56
+adbadcagamcag451ca24%312,badcagaaeq895^&@#jadcag11,4,5,6558.43
+adbadcagamcag451ca24%312,badcagaaeq895^&@#jadcag11,5,6,8127.89
+adbadcagamcag451ca24%312,badcagaaeq895^&@#jadcag11,6,7,9523.58
+adbadcagamcag451ca24%312,badcagaaeq895^&@#jadcag11,7,8,10959.07
+adbadcagamcag451ca24%312,badcagaaeq895^&@#jadcag11,8,9,12959.24
+adbadcagamcag451ca24%312,badcagaaeq895^&@#jadcag11,9,10,14135.51
+adbadcagamcag451ca24%312,badcagaaeq895^&@#jadcag11,10,11,15697.06
+adbadcagamcag451ca24%312,badcagaaeq895^&@#jadcag11,11,12,17293.87
+adbadcagamcag451ca24%312,badcagaaeq895^&@#jadcag11,12,13,18851.5
+adbadcagamcag451ca24%312,badcagaaeq895^&@#jadcag11,13,14,19822.48

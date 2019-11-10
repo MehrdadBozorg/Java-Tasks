@@ -1,0 +1,14 @@
+String1,String2,Maximum distance,Levenshtein Distance,Duration in nanoseconds
+Kartoffelsalat,Runkelr�ben,,12,5167.79
+Kartoffelsalat,Runkelr�ben,1,2,1074.29
+Kartoffelsalat,Runkelr�ben,2,3,1343.53
+Kartoffelsalat,Runkelr�ben,3,4,1751.19
+Kartoffelsalat,Runkelr�ben,4,5,2289.53
+Kartoffelsalat,Runkelr�ben,5,6,4684.76
+Kartoffelsalat,Runkelr�ben,6,7,6381.17
+Kartoffelsalat,Runkelr�ben,7,8,7036.67
+Kartoffelsalat,Runkelr�ben,8,9,7928.09
+Kartoffelsalat,Runkelr�ben,9,10,9123.87
+Kartoffelsalat,Runkelr�ben,10,11,10046.49
+Kartoffelsalat,Runkelr�ben,11,12,11048.75
+Kartoffelsalat,Runkelr�ben,12,12,10763.64

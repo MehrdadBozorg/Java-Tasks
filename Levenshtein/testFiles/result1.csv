@@ -1,0 +1,5 @@
+String1,String2,Maximum distance,Levenshtein Distance,Duration in nanoseconds
+Haus,Maus,1,4635.14
+Haus,Mausi,2,4898.53
+Haus,H�user,3,5492.13
+Kartoffelsalat,Runkelr�ben,12,11475.52
